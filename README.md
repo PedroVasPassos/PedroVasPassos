@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=294&color=auto&text=Olá!%20Sou%20Pedro%20Vasconcelos&section=header&textBg=false&reversal=false&animation=blink&fontAlignY=50&fontSize=50&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=364765&text=Olá!%20Sou%20PedroVasconcelos&section=header&textBg=false&fontColor=faf7f5&reversal=false&animation=blink&fontAlignY=40&fontSize=50&fontAlign=50" width="100%"/>
 </p>
 
 
@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&section=footer&textBg=false&reversal=false&animation=blink&fontAlignY=50&fontSize=50&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=364765&section=footer&textBg=false&fontColor=363636&reversal=false&animation=blink&fontAlignY=40&fontSize=50&fontAlign=50" width="100%"/>
 </p>
