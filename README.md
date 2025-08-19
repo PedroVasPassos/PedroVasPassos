@@ -38,6 +38,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVasPassos&layout=compact&langs_count=7&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&bg_color=0f2027" width="44%"/>
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroVasPassos/PedroVasPassos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroVasPassos/PedroVasPassos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 🌎 Onde me encontrar
