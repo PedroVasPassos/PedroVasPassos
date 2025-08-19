@@ -1,16 +1,51 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Olá!%20Sou%20Pedro%20Vasconcelos%20&fontColor=fff&fontSize=40&fontAlignY=35" width="100%"/>
+</p>
 
-<!--
-**PedroVasPassos/PedroVasPassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+- 🎓 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia.
+- ⚙️ Aprimorando habilidades em programação, APIs e boas práticas de desenvolvimento. 
+- 📈 Em constante evolução, explorando novas linguagens e frameworks.
+
+---
+
+
+## 💻 Tecnologias:  
+
+<div align="center">
+  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+</div>
+
+---
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroVasPassos&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&bg_color=0f2027" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVasPassos&layout=compact&langs_count=7&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&bg_color=0f2027" width="44%"/>
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+<p align="center">
+  <a href="https://github.com/PedroVasPassos"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-vasconcelos-passos-342271318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pdvasconcelos01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=100&section=footer" width="100%"/>
+</p>
