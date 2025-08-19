@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Olá!%20Sou%20Pedro%20Vasconcelos%20&fontColor=fff&fontSize=40&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=294&color=auto&text=Olá!%20Sou%20Pedro%20Vasconcelos&section=header&textBg=false&reversal=false&animation=blink&fontAlignY=50&fontSize=50&fontAlign=50" width="100%"/>
 </p>
+
 
 
 
