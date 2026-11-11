@@ -37,8 +37,8 @@
 ---
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVasPassos&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&bg_color=0f2027" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVasPassos&layout=compact&langs_count=7&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&bg_color=0f2027" width="44%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=PedroVasPassos&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&bg_color=0f2027" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroVasPassos&layout=compact&langs_count=7&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&bg_color=0f2027" width="44%"/>
 </p>
 
 <picture align="center">
